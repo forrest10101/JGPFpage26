@@ -1,0 +1,23 @@
+h1 {color: #910873; 
+    margin-left: 20px;
+   }
+
+p {
+    color: #000000;
+    font-size: 25px;
+    margin-left: 20px;
+   }
+
+.button {
+    display: inline-block;
+    background-color: #3f9108;
+    color: rgb(228, 11, 11);
+    padding: 15px 25px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 9px #999;
+   }
+
+.button:hover {background-color: #141c8a}
